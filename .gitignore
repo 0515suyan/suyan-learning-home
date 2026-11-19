@@ -1,0 +1,12 @@
+.browser-*/
+verify-page.html
+.checks/
+review-*.html
+.taste-skill/
+preview-*.png
+verification.json
+check-examples.mjs
+check-examples.py
+preview-lessons.mjs
+verify.mjs
+网站设计方案.md
